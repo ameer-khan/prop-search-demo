@@ -22,11 +22,11 @@ Cloud based MongoDb has been used from Atlas with pre loaded **Airbnb sample pro
 ## Screenshots
 
 
-![Desktop Screenshot](https://www.awesomescreenshot.com/image/47187796?key=4a9f1d342eef527bcfbf40a7dead4ad1)
+![Desktop Screenshot](desktop.png)
 
-![Desktop Loading Screenshot](https://www.awesomescreenshot.com/image/47187795?key=c2b8f92bf07339b833b5a993f5ccdadf)
+![Desktop Loading Screenshot](loading.png)
 
-![Mobile screen Screenshot](https://www.awesomescreenshot.com/image/47187797?key=a4183b508bf4e96d4a58acc1018d1d5c)
+![Mobile screen Screenshot](mobile.png)
 
 ## Run Locally
 
