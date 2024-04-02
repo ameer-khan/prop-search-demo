@@ -1,0 +1,42 @@
+
+.headerWrapper{
+    height: 65px;
+    width: 100%;
+   position: relative;
+   z-index: 1;
+}
+
+.header {
+    padding: 20px 20px 20px 30px;
+    background: rgb(16 77 171);
+    position: fixed;
+    left: 0;
+    top:0;
+    width: 100%;
+    color: #FFF;
+    border-bottom: 1px solid rgb(8 49 113);
+}
+.mapWrapper {
+    position: sticky;
+    top: 65px;
+    height: calc(100vh - 65px);
+    width: 100%;
+    
+}
+
+.SpinnerWrapper{
+    position : absolute;
+    transform:translateY(-50%);
+    left: 50%;
+    top : 40px;
+    z-index:  1000
+}
+
+@media screen and (max-width: 991px) {
+   
+    .mapWrapper {
+        position: relative;
+        top: 0;
+        height: calc(30vh);
+    }
+}

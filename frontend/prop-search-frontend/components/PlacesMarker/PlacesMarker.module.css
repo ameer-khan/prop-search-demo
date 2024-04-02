@@ -1,0 +1,33 @@
+
+
+.propertyMarker{
+    background: #fff;
+    min-width: 50px;
+    height: 28px;
+    border-radius: 28px;
+    line-height: 30px;
+    padding: 0 8px;
+    color: #000;
+    border: 1px solid #d3c6c6;
+    text-align: center;
+    transition: all 0.4s;
+    font-weight: bold;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.18), 0px 2px 4px 0px rgba(0, 0, 0, 0.18), 0px 0px 0px 1px rgba(0, 0, 0, 0.08);
+}
+.propertyMarker:hover {
+    transform: scale(1.1);
+}
+
+.propertyMarkerActive {
+    background-color: #000;
+   
+    box-shadow: none;
+}
+
+.propertyMarkerTextActive{
+    color: #fff!important;
+}
+
+.InfoWindowCard {
+    position: relative;
+}

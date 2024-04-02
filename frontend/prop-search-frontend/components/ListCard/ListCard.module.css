@@ -1,0 +1,27 @@
+
+
+.ListCard {
+    position: relative;
+    box-shadow: none!important;
+    max-width: 300px;
+}
+
+
+
+
+.FavouriteWrapper{
+    position: absolute;
+    top: 15px;
+    right : 15px
+}
+
+.CardMeta {
+    border: none;
+}
+
+@media screen and (max-width: 991px) {
+    .ListCard {
+        max-width: 100%;
+    }
+    
+}
