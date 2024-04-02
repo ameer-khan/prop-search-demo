@@ -14,7 +14,7 @@ This demo project simply fetches the Property list from the backend based on Goo
 
 This project is built on Nodejs, MongoDb as a backend. Next js as a frontend framework. 
 
-Cloud based MongoDb has been used from Atlas with pre loaded **Airbnb sample property data**.
+Cloud MongoDb has been used from Atlas with pre loaded **Airbnb sample property data**.
 
 
 <div align="center">
@@ -52,7 +52,7 @@ Go to the project directory
   cd prop-search
 ```
 
-Update .env for credntials
+Update .env for Database and Google Map credentials
 
 
 ```
@@ -68,11 +68,11 @@ Install dependencies for the backend
   npm install
 ```
 
-Start the server
+Start the backend server
 
 ```bash
   npm run dev
-  visit localhost:3000/listings
+  
 ```
 
 
@@ -84,10 +84,11 @@ Install dependencies for the backend
   npm install
 ```
 
-Start the server
+Start the frontend server
 
 ```bash
   npm run dev
+  visit localhost:3000/listings
 ```
 
 ## Tech Stack
@@ -98,10 +99,6 @@ Start the server
 
 **Server:** Node, Express, Mongo DB, Mongoose
 
-
-# Property search 
-
-This demo project simply fetches the Property list from the backend based on Google Map bounds and shows the list of available properties in that region. Also it places markers on Map.
 
 
 
