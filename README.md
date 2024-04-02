@@ -17,6 +17,16 @@ This project is built on Nodejs, MongoDb as a backend. Next js as a frontend fra
 Cloud based MongoDb has been used from Atlas with pre loaded **Airbnb sample property data**.
 
 
+<div align="center">
+  <a href="" rel="noopener">
+  <img width=600px height=auto src="demo.gif"></a>
+</div>
+
+
+
+## Demo
+
+[Demo Video](https://www.awesomescreenshot.com/video/26342111?key=4c8c8327c2ff2f786891fcf7000f44b0)
 
 
 ## Screenshots
@@ -86,6 +96,4 @@ This demo project simply fetches the Property list from the backend based on Goo
 
 
 
-## Demo
 
-[Demo Video](https://www.awesomescreenshot.com/video/26342111?key=4c8c8327c2ff2f786891fcf7000f44b0)
