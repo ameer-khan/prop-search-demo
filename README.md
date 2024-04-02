@@ -43,13 +43,22 @@ Cloud based MongoDb has been used from Atlas with pre loaded **Airbnb sample pro
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone git@github.com:ameer-khan/prop-search-demo.git
 ```
 
 Go to the project directory
 
 ```bash
   cd prop-search
+```
+
+Update .env for credntials
+
+
+```
+1. go to /backend/.env -> Enable **DATABASE_URL**
+2. got to /frontend/prop-search-frontend **NEXT_PUBLIC_MAP_KEY**
+
 ```
 
 Install dependencies for the backend
