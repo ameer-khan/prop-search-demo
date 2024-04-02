@@ -61,6 +61,11 @@ Update .env for Database and Google Map credentials
 
 ```
 
+**Please note**
+This project runs on Node Version 18.17
+
+
+
 Install dependencies for the backend
 
 ```bash
